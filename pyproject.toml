@@ -1,0 +1,18 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "lab>=8.5",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "polars>=1.35.1",
+    "pyarrow>=22.0.0",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+    "backtesting>=0.3.4",
+    "yfinance>=0.2.66",
+]
